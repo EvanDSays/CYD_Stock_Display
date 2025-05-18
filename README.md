@@ -1,5 +1,5 @@
 # CYD_Stock_Display
-Display two stocks on your Cheap Yelow Device (CYD)
+Display two stocks on your Cheap Yelow Display (CYD)
 ![Picture of the CYD running the CYD_Stock_Display program](https://i.imgur.com/KCgmdfg.jpeg)
 
 # Dependencies

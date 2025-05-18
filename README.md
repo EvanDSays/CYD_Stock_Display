@@ -1,7 +1,7 @@
 # CYD_Stock_Display
 Display two stocks on your Cheap Yelow Device (CYD)
-![Picture of the CYD running the CYD_Stock_Display program](https://i.imgur.com/WWH0AJj.jpeg)
-https://imgur.com/a/jNVY3zT
+![Picture of the CYD running the CYD_Stock_Display program](https://i.imgur.com/KCgmdfg.jpeg)
+
 # Dependencies
 [TimeLib](https://github.com/PaulStoffregen/Time.git)
 

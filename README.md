@@ -1,9 +1,12 @@
 # CYD_Stock_Display
+Display two stocks on your Cheap Yelow Device (CYD)
 ![Picture of the CYD running the CYD_Stock_Display program](https://i.imgur.com/WWH0AJj.jpeg)
 
 # Dependencies
 [TimeLib](https://github.com/PaulStoffregen/Time.git)
+
 [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
+
 [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
 
 # Instructions

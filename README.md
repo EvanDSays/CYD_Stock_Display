@@ -1,5 +1,5 @@
 # CYD_Stock_Display
-Display two stocks on your Cheap Yelow Display (CYD)
+Display two stocks on your [Cheap Yelow Display (CYD)](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 ![Picture of the CYD running the CYD_Stock_Display program](https://i.imgur.com/KCgmdfg.jpeg)
 
 # Dependencies

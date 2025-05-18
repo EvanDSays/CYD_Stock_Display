@@ -10,6 +10,7 @@ Display two stocks on your Cheap Yelow Device (CYD)
 [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
 
 # Instructions
-1. Override the TFT_eSPI User_Setup.h file with the one I provided
-2. Configure the secrets and stocks at the top of the main.cpp file I provided
-3. Upload to your CYD
+1. Get an API key from [Finnhub.io](https://finnhub.io/)
+2. Override the TFT_eSPI User_Setup.h file with the one I provided
+3. Configure the secrets and stocks at the top of the main.cpp file I provided
+4. Upload to your CYD
